@@ -1,0 +1,14 @@
+{
+  "name": "randompage",
+  "version": "1.0.0",
+  "description": "Page with shortcuts to frequently used sites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tennis kumar reddy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
